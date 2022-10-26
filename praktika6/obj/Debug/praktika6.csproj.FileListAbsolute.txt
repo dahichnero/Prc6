@@ -1,0 +1,16 @@
+C:\Users\307-09\Desktop\praktika6\praktika6\bin\Debug\praktika6.exe.config
+C:\Users\307-09\Desktop\praktika6\praktika6\bin\Debug\praktika6.exe
+C:\Users\307-09\Desktop\praktika6\praktika6\bin\Debug\praktika6.pdb
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.csproj.AssemblyReference.cache
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\MainWindow.g.cs
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\App.g.cs
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6_MarkupCompile.cache
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6_MarkupCompile.lref
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\MainWindow.baml
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.g.resources
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.Properties.Resources.resources
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.csproj.GenerateResource.cache
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.csproj.CoreCompileInputs.cache
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.exe
+C:\Users\307-09\Desktop\praktika6\praktika6\obj\Debug\praktika6.pdb
